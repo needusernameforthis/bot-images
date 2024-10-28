@@ -4,6 +4,7 @@
 # but not these files
 !.gitignore
 !README.md
+!MangaContexts
 
 #even if they are in subdirectories
 #!*/

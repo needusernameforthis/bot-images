@@ -20,14 +20,14 @@ https://github.com/mikf/gallery-dl/blob/master/docs/options.md
 https://youtu.be/jGwD3e1BZ5Y
 
 # to clone:
-Original (Uses default account): git clone git@github.com:MarkGelo/idontknow.git
-Specific mlgameng account: git clone git@mlgameng.github.com:MarkGelo/idontknow.git
-Specific geloprojects account: git clone git@geloprojects.github.com:MarkGelo/idontknow.git
+Original (Uses default account): git clone git@github.com:USERNAME/idontknow.git
+Specific USER1 account: git clone git@USER1.github.com:USERNAME/idontknow.git
+Specific USER2 account: git clone git@USER2.github.com:USERNAME/idontknow.git
 
 # after cloning, change the config file in the repository
-update the url in the remote origin to have the updated url -- git@geloprojects.github.com   etc..
+update the url in the remote origin to have the updated url -- git@USER2.github.com   etc..
 
 # also add to config file in the repository
 [user]
-    name = needusernameforthis
-    email = geloprojects@gmail.com
+    name = GITHUB_USERNAME
+    email = EMAIL@gmail.com
