@@ -17,6 +17,7 @@ https://github.com/mikf/gallery-dl/blob/master/docs/options.md
 -----------
 ## I now have multiple github accounts with ssh keys
 
+need to use windows powershell with run on adminstrator
 https://youtu.be/jGwD3e1BZ5Y
 
 # to clone:
