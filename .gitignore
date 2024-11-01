@@ -4,7 +4,7 @@
 # Includelist some files
 !.gitignore
 !README.md
-!DB.json
+!*.json
 
 # Ignore all files named .DS_Store or ending with .log -- these are just examples
 **/.DS_Store 
