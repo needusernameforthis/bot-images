@@ -4,7 +4,6 @@
 # Includelist some files
 !.gitignore
 !README.md
-!*.json
 
 # Ignore all files named .DS_Store or ending with .log -- these are just examples
 **/.DS_Store 
@@ -15,5 +14,8 @@
 # "/" is NOT optional when followed by a *
 # https://stackoverflow.com/questions/987142/make-gitignore-ignore-everything-except-a-few-files
 !MangaContexts/
+!DB-MangaContexts.json
 !interiorstellar/
+!DB-interiorstellar.json
 !interiorsuckerr/
+!DB-interiorsuckerr.json
